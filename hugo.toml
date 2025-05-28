@@ -16,9 +16,9 @@ theme = "hugo-paper"
 
 [params]
   color = 'linen'
-  twitter = 'nanxiaobei'
-  github = 'nanxiaobei'
-  instagram = 'nan.xiaobei'
+  twitter = ''
+  github = 'duddomx'
+  instagram = ''
 
 avatar = ''
   name = 'duddomx'
