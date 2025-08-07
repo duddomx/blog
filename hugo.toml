@@ -1,5 +1,5 @@
-baseURL = "duddomx.github.io"
-languageCode = "en-us"
+baseURL = "https://duddomx.github.io"
+languageCode = "it"
 title = "Note Scritte"
 theme = "paper"
 
